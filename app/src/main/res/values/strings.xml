@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="et_value">Enter a temperature value</string>
+    <string name="btn_celsius">Celsius</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_fehrenheit">Fehrenheit</string>
+    <string name="tv_calculate" />
+</resources>
